@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="68" passed="57" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T01:59:32 IST" name="Suite" finished-at="2023-07-19T03:11:04 IST" duration-ms="4291486">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T01:59:32 IST" name="Test" finished-at="2023-07-19T03:11:04 IST" duration-ms="4291486">
+      <class name="testcases.RuleEngineTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:51:41 IST" name="setUp" finished-at="2023-07-19T02:51:53 IST" duration-ms="11470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:51:53 IST" name="beforeMethod" finished-at="2023-07-19T02:51:53 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ruleEngineValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ruleEngineValidationCheck()[pri:1, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:51:53 IST" name="ruleEngineValidationCheck" finished-at="2023-07-19T02:52:46 IST" duration-ms="52913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ruleEngineValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:52:46 IST" name="reportWrapUp" finished-at="2023-07-19T02:52:46 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ruleEngineValidationCheck status=SUCCESS method=RuleEngineTest.ruleEngineValidationCheck()[pri:1, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ruleEngineValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:52:46 IST" name="beforeMethod" finished-at="2023-07-19T02:52:46 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.addNewRule()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addNewRule()[pri:2, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:52:46 IST" name="addNewRule" finished-at="2023-07-19T02:54:30 IST" duration-ms="104282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:54:30 IST" name="reportWrapUp" finished-at="2023-07-19T02:54:30 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewRule status=SUCCESS method=RuleEngineTest.addNewRule()[pri:2, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.addNewRule()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:54:30 IST" name="beforeMethod" finished-at="2023-07-19T02:54:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidateSerachFunctionalityWithRuleName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateSerachFunctionalityWithRuleName()[pri:3, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:54:30 IST" name="ValidateSerachFunctionalityWithRuleName" finished-at="2023-07-19T02:55:17 IST" duration-ms="47185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSerachFunctionalityWithRuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:55:17 IST" name="reportWrapUp" finished-at="2023-07-19T02:55:17 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateSerachFunctionalityWithRuleName status=SUCCESS method=RuleEngineTest.ValidateSerachFunctionalityWithRuleName()[pri:3, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidateSerachFunctionalityWithRuleName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:55:17 IST" name="beforeMethod" finished-at="2023-07-19T02:55:17 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidateSerachFunctionalityWithModuleName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateSerachFunctionalityWithModuleName()[pri:4, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:55:17 IST" name="ValidateSerachFunctionalityWithModuleName" finished-at="2023-07-19T02:56:12 IST" duration-ms="54977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSerachFunctionalityWithModuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:56:12 IST" name="reportWrapUp" finished-at="2023-07-19T02:56:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateSerachFunctionalityWithModuleName status=SUCCESS method=RuleEngineTest.ValidateSerachFunctionalityWithModuleName()[pri:4, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidateSerachFunctionalityWithModuleName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:56:12 IST" name="beforeMethod" finished-at="2023-07-19T02:56:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidatetheFunctionalityOfRestButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidatetheFunctionalityOfRestButton()[pri:5, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:56:12 IST" name="ValidatetheFunctionalityOfRestButton" finished-at="2023-07-19T02:57:14 IST" duration-ms="61551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatetheFunctionalityOfRestButton -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:57:14 IST" name="reportWrapUp" finished-at="2023-07-19T02:57:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidatetheFunctionalityOfRestButton status=SUCCESS method=RuleEngineTest.ValidatetheFunctionalityOfRestButton()[pri:5, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidatetheFunctionalityOfRestButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:57:14 IST" name="beforeMethod" finished-at="2023-07-19T02:57:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidatetheFunctionalityOfStatusButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidatetheFunctionalityOfStatusButton()[pri:6, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:57:14 IST" name="ValidatetheFunctionalityOfStatusButton" finished-at="2023-07-19T02:58:16 IST" duration-ms="62818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatetheFunctionalityOfStatusButton -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:58:16 IST" name="reportWrapUp" finished-at="2023-07-19T02:58:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidatetheFunctionalityOfStatusButton status=SUCCESS method=RuleEngineTest.ValidatetheFunctionalityOfStatusButton()[pri:6, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidatetheFunctionalityOfStatusButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:58:16 IST" name="beforeMethod" finished-at="2023-07-19T02:58:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidatetheFunctionalityOfSorting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidatetheFunctionalityOfSorting()[pri:7, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:58:16 IST" name="ValidatetheFunctionalityOfSorting" finished-at="2023-07-19T02:59:32 IST" duration-ms="75708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatetheFunctionalityOfSorting -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:59:32 IST" name="reportWrapUp" finished-at="2023-07-19T02:59:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidatetheFunctionalityOfSorting status=SUCCESS method=RuleEngineTest.ValidatetheFunctionalityOfSorting()[pri:7, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidatetheFunctionalityOfSorting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:59:32 IST" name="beforeMethod" finished-at="2023-07-19T02:59:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidateDeleteButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateDeleteButtonFunctionality()[pri:8, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T02:59:32 IST" name="ValidateDeleteButtonFunctionality" finished-at="2023-07-19T03:00:43 IST" duration-ms="71237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDeleteButtonFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T03:00:43 IST" name="reportWrapUp" finished-at="2023-07-19T03:00:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateDeleteButtonFunctionality status=SUCCESS method=RuleEngineTest.ValidateDeleteButtonFunctionality()[pri:8, instance:testcases.RuleEngineTest@f5ac9e4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.RuleEngineTest.ValidateDeleteButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.RuleEngineTest@f5ac9e4]" started-at="2023-07-19T03:00:43 IST" name="closeBrowser" finished-at="2023-07-19T03:00:44 IST" duration-ms="668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.RuleEngineTest -->
+      <class name="testcases.OrganizationChartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:09:15 IST" name="setUp" finished-at="2023-07-19T03:09:24 IST" duration-ms="9000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:09:24 IST" name="beforeMethod" finished-at="2023-07-19T03:09:24 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.OrganizationChartTest.validationCheckForChangeRootMember()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validationCheckForChangeRootMember()[pri:1, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:09:24 IST" name="validationCheckForChangeRootMember" finished-at="2023-07-19T03:10:05 IST" duration-ms="40972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationCheckForChangeRootMember -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:10:05 IST" name="reportWrapUp" finished-at="2023-07-19T03:10:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationCheckForChangeRootMember status=SUCCESS method=OrganizationChartTest.validationCheckForChangeRootMember()[pri:1, instance:testcases.OrganizationChartTest@384ad17b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.OrganizationChartTest.validationCheckForChangeRootMember()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateFunctionalityOfUserGuideAndChangeRootMember()[pri:2, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:10:05 IST" name="validateFunctionalityOfUserGuideAndChangeRootMember" finished-at="2023-07-19T03:11:03 IST" duration-ms="57711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFunctionalityOfUserGuideAndChangeRootMember -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:10:05 IST" name="beforeMethod" finished-at="2023-07-19T03:10:05 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.OrganizationChartTest.validateFunctionalityOfUserGuideAndChangeRootMember()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:11:03 IST" name="reportWrapUp" finished-at="2023-07-19T03:11:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFunctionalityOfUserGuideAndChangeRootMember status=SUCCESS method=OrganizationChartTest.validateFunctionalityOfUserGuideAndChangeRootMember()[pri:2, instance:testcases.OrganizationChartTest@384ad17b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.OrganizationChartTest.validateFunctionalityOfUserGuideAndChangeRootMember()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.OrganizationChartTest@384ad17b]" started-at="2023-07-19T03:11:03 IST" name="closeBrowser" finished-at="2023-07-19T03:11:04 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.OrganizationChartTest -->
+      <class name="testcases.StorageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.StorageTest@59fd97a8]" started-at="2023-07-19T02:50:49 IST" name="setUp" finished-at="2023-07-19T02:50:58 IST" duration-ms="8963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.StorageTest@59fd97a8]" started-at="2023-07-19T02:50:58 IST" name="beforeMethod" finished-at="2023-07-19T02:50:58 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.StorageTest.allocateSpaceOnManageStoragePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="allocateSpaceOnManageStoragePage()[pri:1, instance:testcases.StorageTest@59fd97a8]" started-at="2023-07-19T02:50:58 IST" name="allocateSpaceOnManageStoragePage" finished-at="2023-07-19T02:51:40 IST" duration-ms="41942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allocateSpaceOnManageStoragePage -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.StorageTest@59fd97a8]" started-at="2023-07-19T02:51:40 IST" name="reportWrapUp" finished-at="2023-07-19T02:51:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=allocateSpaceOnManageStoragePage status=SUCCESS method=StorageTest.allocateSpaceOnManageStoragePage()[pri:1, instance:testcases.StorageTest@59fd97a8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.StorageTest.allocateSpaceOnManageStoragePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.StorageTest@59fd97a8]" started-at="2023-07-19T02:51:40 IST" name="closeBrowser" finished-at="2023-07-19T02:51:41 IST" duration-ms="1428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.StorageTest -->
+      <class name="testcases.PassportInformationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:16:56 IST" name="setUp" finished-at="2023-07-19T02:17:05 IST" duration-ms="9543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:17:05 IST" name="beforeMethod" finished-at="2023-07-19T02:17:05 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addPassportInformationValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addPassportInformationValidationCheck()[pri:1, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:17:05 IST" name="addPassportInformationValidationCheck" finished-at="2023-07-19T02:17:47 IST" duration-ms="42276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPassportInformationValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:17:47 IST" name="reportWrapUp" finished-at="2023-07-19T02:17:47 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addPassportInformationValidationCheck status=SUCCESS method=PassportInformationTest.addPassportInformationValidationCheck()[pri:1, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addPassportInformationValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:17:47 IST" name="beforeMethod" finished-at="2023-07-19T02:17:47 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addPassportInformation() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addPassportInformation()[pri:2, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:17:47 IST" name="addPassportInformation" finished-at="2023-07-19T02:20:32 IST" duration-ms="164229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPassportInformation -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:20:32 IST" name="reportWrapUp" finished-at="2023-07-19T02:20:32 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addPassportInformation status=SUCCESS method=PassportInformationTest.addPassportInformation()[pri:2, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addPassportInformation() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:20:32 IST" name="beforeMethod" finished-at="2023-07-19T02:20:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validatePassportUserName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatePassportUserName()[pri:3, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:20:32 IST" name="validatePassportUserName" finished-at="2023-07-19T02:21:22 IST" duration-ms="50019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePassportUserName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:21:22 IST" name="reportWrapUp" finished-at="2023-07-19T02:21:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatePassportUserName status=SUCCESS method=PassportInformationTest.validatePassportUserName()[pri:3, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validatePassportUserName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:21:22 IST" name="beforeMethod" finished-at="2023-07-19T02:21:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validatePassportUserNameWithStatusSearchFilter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatePassportUserNameWithStatusSearchFilter()[pri:4, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:21:22 IST" name="validatePassportUserNameWithStatusSearchFilter" finished-at="2023-07-19T02:22:23 IST" duration-ms="61603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePassportUserNameWithStatusSearchFilter -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:22:23 IST" name="reportWrapUp" finished-at="2023-07-19T02:22:23 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatePassportUserNameWithStatusSearchFilter status=SUCCESS method=PassportInformationTest.validatePassportUserNameWithStatusSearchFilter()[pri:4, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validatePassportUserNameWithStatusSearchFilter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:22:23 IST" name="beforeMethod" finished-at="2023-07-19T02:22:23 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateUpdateFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateUpdateFunctionality()[pri:5, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:22:23 IST" name="validateUpdateFunctionality" finished-at="2023-07-19T02:23:25 IST" duration-ms="61804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:23:25 IST" name="reportWrapUp" finished-at="2023-07-19T02:23:25 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateUpdateFunctionality status=SUCCESS method=PassportInformationTest.validateUpdateFunctionality()[pri:5, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateUpdateFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:23:25 IST" name="beforeMethod" finished-at="2023-07-19T02:23:25 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateViewPassportButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateViewPassportButtonFunctionality()[pri:6, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:23:25 IST" name="validateViewPassportButtonFunctionality" finished-at="2023-07-19T02:24:28 IST" duration-ms="63124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateViewPassportButtonFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:24:28 IST" name="reportWrapUp" finished-at="2023-07-19T02:24:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateViewPassportButtonFunctionality status=SUCCESS method=PassportInformationTest.validateViewPassportButtonFunctionality()[pri:6, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateViewPassportButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:24:28 IST" name="beforeMethod" finished-at="2023-07-19T02:24:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addVisaDetailsValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addVisaDetailsValidationCheck()[pri:7, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:24:28 IST" name="addVisaDetailsValidationCheck" finished-at="2023-07-19T02:25:44 IST" duration-ms="75508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVisaDetailsValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:25:44 IST" name="reportWrapUp" finished-at="2023-07-19T02:25:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addVisaDetailsValidationCheck status=SUCCESS method=PassportInformationTest.addVisaDetailsValidationCheck()[pri:7, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addVisaDetailsValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:25:44 IST" name="beforeMethod" finished-at="2023-07-19T02:25:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addVisaDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addVisaDetails()[pri:8, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:25:44 IST" name="addVisaDetails" finished-at="2023-07-19T02:27:23 IST" duration-ms="99689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVisaDetails -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:27:23 IST" name="reportWrapUp" finished-at="2023-07-19T02:27:23 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addVisaDetails status=SUCCESS method=PassportInformationTest.addVisaDetails()[pri:8, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.addVisaDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:27:23 IST" name="beforeMethod" finished-at="2023-07-19T02:27:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateVisaNumber()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateVisaNumber()[pri:9, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:27:23 IST" name="validateVisaNumber" finished-at="2023-07-19T02:28:29 IST" duration-ms="65544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateVisaNumber -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:28:29 IST" name="reportWrapUp" finished-at="2023-07-19T02:28:29 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateVisaNumber status=SUCCESS method=PassportInformationTest.validateVisaNumber()[pri:9, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateVisaNumber()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateVisaNumberWithStatusSearchFilter()[pri:10, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:28:29 IST" name="validateVisaNumberWithStatusSearchFilter" finished-at="2023-07-19T02:29:42 IST" duration-ms="73532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateVisaNumberWithStatusSearchFilter -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:28:29 IST" name="beforeMethod" finished-at="2023-07-19T02:28:29 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateVisaNumberWithStatusSearchFilter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:29:42 IST" name="reportWrapUp" finished-at="2023-07-19T02:29:42 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateVisaNumberWithStatusSearchFilter status=SUCCESS method=PassportInformationTest.validateVisaNumberWithStatusSearchFilter()[pri:10, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateVisaNumberWithStatusSearchFilter()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:29:42 IST" name="beforeMethod" finished-at="2023-07-19T02:29:42 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateUpdateFunctionalityOfVisa()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateUpdateFunctionalityOfVisa()[pri:11, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:29:42 IST" name="validateUpdateFunctionalityOfVisa" finished-at="2023-07-19T02:31:07 IST" duration-ms="84261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateFunctionalityOfVisa -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:31:07 IST" name="reportWrapUp" finished-at="2023-07-19T02:31:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateUpdateFunctionalityOfVisa status=SUCCESS method=PassportInformationTest.validateUpdateFunctionalityOfVisa()[pri:11, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateUpdateFunctionalityOfVisa()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateDeleteFunctionalityOfVisa()[pri:12, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:31:07 IST" name="validateDeleteFunctionalityOfVisa" finished-at="2023-07-19T02:32:43 IST" duration-ms="96121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteFunctionalityOfVisa -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:31:07 IST" name="beforeMethod" finished-at="2023-07-19T02:31:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateDeleteFunctionalityOfVisa()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:32:43 IST" name="reportWrapUp" finished-at="2023-07-19T02:32:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDeleteFunctionalityOfVisa status=SUCCESS method=PassportInformationTest.validateDeleteFunctionalityOfVisa()[pri:12, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateDeleteFunctionalityOfVisa()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:32:43 IST" name="beforeMethod" finished-at="2023-07-19T02:32:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.verifySortingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifySortingFunctionality()[pri:13, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:32:43 IST" name="verifySortingFunctionality" finished-at="2023-07-19T02:35:20 IST" duration-ms="157620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortingFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:35:20 IST" name="reportWrapUp" finished-at="2023-07-19T02:35:20 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySortingFunctionality status=SUCCESS method=PassportInformationTest.verifySortingFunctionality()[pri:13, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.verifySortingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:35:20 IST" name="beforeMethod" finished-at="2023-07-19T02:35:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateDeleteFunctionalityOfPassport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateDeleteFunctionalityOfPassport()[pri:14, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:35:20 IST" name="validateDeleteFunctionalityOfPassport" finished-at="2023-07-19T02:36:25 IST" duration-ms="64629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteFunctionalityOfPassport -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:36:25 IST" name="reportWrapUp" finished-at="2023-07-19T02:36:25 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDeleteFunctionalityOfPassport status=SUCCESS method=PassportInformationTest.validateDeleteFunctionalityOfPassport()[pri:14, instance:testcases.PassportInformationTest@402bba4f] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.PassportInformationTest.validateDeleteFunctionalityOfPassport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.PassportInformationTest@402bba4f]" started-at="2023-07-19T02:36:25 IST" name="closeBrowser" finished-at="2023-07-19T02:36:26 IST" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.PassportInformationTest -->
+      <class name="testcases.WorkingDayTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T01:59:32 IST" name="setUp" finished-at="2023-07-19T01:59:43 IST" duration-ms="11251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T01:59:43 IST" name="beforeMethod" finished-at="2023-07-19T01:59:44 IST" duration-ms="477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.addWorkingDayValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addWorkingDayValidationCheck()[pri:1, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T01:59:44 IST" name="addWorkingDayValidationCheck" finished-at="2023-07-19T02:00:36 IST" duration-ms="52027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addWorkingDayValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:00:36 IST" name="reportWrapUp" finished-at="2023-07-19T02:00:36 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addWorkingDayValidationCheck status=SUCCESS method=WorkingDayTest.addWorkingDayValidationCheck()[pri:1, instance:testcases.WorkingDayTest@5119fb47] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.addWorkingDayValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="addWorkingDayForCompanyHolidays()[pri:2, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:00:36 IST" name="addWorkingDayForCompanyHolidays" finished-at="2023-07-19T02:03:51 IST" duration-ms="195447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addWorkingDayForCompanyHolidays -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:00:36 IST" name="beforeMethod" finished-at="2023-07-19T02:00:36 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.addWorkingDayForCompanyHolidays() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:03:51 IST" name="reportWrapUp" finished-at="2023-07-19T02:03:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addWorkingDayForCompanyHolidays status=SUCCESS method=WorkingDayTest.addWorkingDayForCompanyHolidays()[pri:2, instance:testcases.WorkingDayTest@5119fb47] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.addWorkingDayForCompanyHolidays() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:03:51 IST" name="beforeMethod" finished-at="2023-07-19T02:03:51 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.ValidateEditFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateEditFunctionality()[pri:3, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:03:51 IST" name="ValidateEditFunctionality" finished-at="2023-07-19T02:04:45 IST" duration-ms="53912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateEditFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:04:45 IST" name="reportWrapUp" finished-at="2023-07-19T02:04:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateEditFunctionality status=SUCCESS method=WorkingDayTest.ValidateEditFunctionality()[pri:3, instance:testcases.WorkingDayTest@5119fb47] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.ValidateEditFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:04:45 IST" name="beforeMethod" finished-at="2023-07-19T02:04:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.ValidateDeleteFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateDeleteFunctionality()[pri:4, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:04:45 IST" name="ValidateDeleteFunctionality" finished-at="2023-07-19T02:05:33 IST" duration-ms="47672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDeleteFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:05:33 IST" name="reportWrapUp" finished-at="2023-07-19T02:05:33 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateDeleteFunctionality status=SUCCESS method=WorkingDayTest.ValidateDeleteFunctionality()[pri:4, instance:testcases.WorkingDayTest@5119fb47] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.WorkingDayTest.ValidateDeleteFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T02:05:33 IST" name="closeBrowser" finished-at="2023-07-19T02:05:34 IST" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.WorkingDayTest@5119fb47]" started-at="2023-07-19T03:11:04 IST" name="close" finished-at="2023-07-19T03:11:05 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.WorkingDayTest -->
+      <class name="testcases.AutoResponderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:07:05 IST" name="setUp" finished-at="2023-07-19T02:07:24 IST" duration-ms="18957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="autoResponderValidationCheck()[pri:1, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:07:24 IST" name="autoResponderValidationCheck" finished-at="2023-07-19T02:08:22 IST" duration-ms="58558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoResponderValidationCheck -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:07:24 IST" name="beforeMethod" finished-at="2023-07-19T02:07:24 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.autoResponderValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:08:22 IST" name="reportWrapUp" finished-at="2023-07-19T02:08:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=autoResponderValidationCheck status=SUCCESS method=AutoResponderTest.autoResponderValidationCheck()[pri:1, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.autoResponderValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:08:22 IST" name="beforeMethod" finished-at="2023-07-19T02:08:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.addAutoResponder()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addAutoResponder()[pri:2, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:08:22 IST" name="addAutoResponder" finished-at="2023-07-19T02:09:22 IST" duration-ms="59407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAutoResponder -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:09:22 IST" name="reportWrapUp" finished-at="2023-07-19T02:09:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addAutoResponder status=SUCCESS method=AutoResponderTest.addAutoResponder()[pri:2, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.addAutoResponder()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:09:22 IST" name="beforeMethod" finished-at="2023-07-19T02:09:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateSerachFunctionalityWithTitleName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateSerachFunctionalityWithTitleName()[pri:3, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:09:22 IST" name="ValidateSerachFunctionalityWithTitleName" finished-at="2023-07-19T02:10:13 IST" duration-ms="50858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSerachFunctionalityWithTitleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:10:13 IST" name="reportWrapUp" finished-at="2023-07-19T02:10:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateSerachFunctionalityWithTitleName status=SUCCESS method=AutoResponderTest.ValidateSerachFunctionalityWithTitleName()[pri:3, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateSerachFunctionalityWithTitleName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:10:13 IST" name="beforeMethod" finished-at="2023-07-19T02:10:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateSerachFunctionalityWithStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateSerachFunctionalityWithStatus()[pri:4, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:10:13 IST" name="ValidateSerachFunctionalityWithStatus" finished-at="2023-07-19T02:11:06 IST" duration-ms="53707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSerachFunctionalityWithStatus -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:11:06 IST" name="reportWrapUp" finished-at="2023-07-19T02:11:06 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateSerachFunctionalityWithStatus status=SUCCESS method=AutoResponderTest.ValidateSerachFunctionalityWithStatus()[pri:4, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateSerachFunctionalityWithStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:11:06 IST" name="beforeMethod" finished-at="2023-07-19T02:11:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateUpdateFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateUpdateFunctionality()[pri:5, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:11:06 IST" name="ValidateUpdateFunctionality" finished-at="2023-07-19T02:12:14 IST" duration-ms="67325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateUpdateFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:12:14 IST" name="reportWrapUp" finished-at="2023-07-19T02:12:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateUpdateFunctionality status=SUCCESS method=AutoResponderTest.ValidateUpdateFunctionality()[pri:5, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateUpdateFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:12:14 IST" name="beforeMethod" finished-at="2023-07-19T02:12:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.verifySortingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifySortingFunctionality()[pri:6, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:12:14 IST" name="verifySortingFunctionality" finished-at="2023-07-19T02:13:23 IST" duration-ms="69312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortingFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:13:23 IST" name="reportWrapUp" finished-at="2023-07-19T02:13:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySortingFunctionality status=SUCCESS method=AutoResponderTest.verifySortingFunctionality()[pri:6, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.verifySortingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:13:23 IST" name="beforeMethod" finished-at="2023-07-19T02:13:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateDeleteFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateDeleteFunctionality()[pri:7, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:13:23 IST" name="ValidateDeleteFunctionality" finished-at="2023-07-19T02:14:23 IST" duration-ms="60389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDeleteFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:14:23 IST" name="reportWrapUp" finished-at="2023-07-19T02:14:23 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateDeleteFunctionality status=SUCCESS method=AutoResponderTest.ValidateDeleteFunctionality()[pri:7, instance:testcases.AutoResponderTest@498d318c] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AutoResponderTest.ValidateDeleteFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.AutoResponderTest@498d318c]" started-at="2023-07-19T02:14:23 IST" name="closeBrowser" finished-at="2023-07-19T02:14:28 IST" duration-ms="4575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.AutoResponderTest -->
+      <class name="testcases.ExternalLinkTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:00:44 IST" name="setUp" finished-at="2023-07-19T03:00:54 IST" duration-ms="10122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:00:54 IST" name="beforeMethod" finished-at="2023-07-19T03:00:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ExternalLinkTest.validateEditfunctionalityOfExternalLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateEditfunctionalityOfExternalLink()[pri:1, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:00:54 IST" name="validateEditfunctionalityOfExternalLink" finished-at="2023-07-19T03:01:57 IST" duration-ms="62597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEditfunctionalityOfExternalLink -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:01:57 IST" name="reportWrapUp" finished-at="2023-07-19T03:01:57 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateEditfunctionalityOfExternalLink status=SUCCESS method=ExternalLinkTest.validateEditfunctionalityOfExternalLink()[pri:1, instance:testcases.ExternalLinkTest@123ef382] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ExternalLinkTest.validateEditfunctionalityOfExternalLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:01:57 IST" name="beforeMethod" finished-at="2023-07-19T03:01:57 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ExternalLinkTest.validateViewfunctionalityOfExternalLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateViewfunctionalityOfExternalLink()[pri:2, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:01:57 IST" name="validateViewfunctionalityOfExternalLink" finished-at="2023-07-19T03:02:45 IST" duration-ms="48457" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null
+at org.testng.Assert.fail(Assert.java:99)
+at utils.WebBasePage.enter(WebBasePage.java:83)
+at pageobjects.UserLoginPage.enterUserName(UserLoginPage.java:37)
+at pageobjects.UserLoginPage.forcefulLogOutLogin(UserLoginPage.java:83)
+at action.LoginAction.logoutLogin(LoginAction.java:25)
+at testcases.ExternalLinkTest.validateViewfunctionalityOfExternalLink(ExternalLinkTest.java:33)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateViewfunctionalityOfExternalLink -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:02:45 IST" name="reportWrapUp" finished-at="2023-07-19T03:02:46 IST" duration-ms="1129" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateViewfunctionalityOfExternalLink status=FAILURE method=ExternalLinkTest.validateViewfunctionalityOfExternalLink()[pri:2, instance:testcases.ExternalLinkTest@123ef382] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ExternalLinkTest.validateViewfunctionalityOfExternalLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:02:46 IST" name="beforeMethod" finished-at="2023-07-19T03:02:46 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ExternalLinkTest.validateCopyExternalLinkfunctionalityOfExternalLink() throws java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateCopyExternalLinkfunctionalityOfExternalLink()[pri:3, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:02:46 IST" name="validateCopyExternalLinkfunctionalityOfExternalLink" finished-at="2023-07-19T03:03:13 IST" duration-ms="26319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCopyExternalLinkfunctionalityOfExternalLink -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:03:13 IST" name="reportWrapUp" finished-at="2023-07-19T03:03:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateCopyExternalLinkfunctionalityOfExternalLink status=SUCCESS method=ExternalLinkTest.validateCopyExternalLinkfunctionalityOfExternalLink()[pri:3, instance:testcases.ExternalLinkTest@123ef382] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ExternalLinkTest.validateCopyExternalLinkfunctionalityOfExternalLink() throws java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ExternalLinkTest@123ef382]" started-at="2023-07-19T03:03:13 IST" name="closeBrowser" finished-at="2023-07-19T03:03:13 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.ExternalLinkTest -->
+      <class name="testcases.WorkingWeekTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:14:28 IST" name="setUp" finished-at="2023-07-19T02:14:39 IST" duration-ms="11286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:14:39 IST" name="beforeMethod" finished-at="2023-07-19T02:14:39 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.WorkingWeekTest.validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton() throws java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton()[pri:1, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:14:39 IST" name="validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton" finished-at="2023-07-19T02:16:00 IST" duration-ms="80594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:16:00 IST" name="reportWrapUp" finished-at="2023-07-19T02:16:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton status=SUCCESS method=WorkingWeekTest.validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton()[pri:1, instance:testcases.WorkingWeekTest@6e171cd7] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.WorkingWeekTest.validateFunctionalityForSetUpForTheWorkingWeekAndSaveButton() throws java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:16:00 IST" name="beforeMethod" finished-at="2023-07-19T02:16:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.WorkingWeekTest.validateFunctionalityOfResetButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateFunctionalityOfResetButton()[pri:2, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:16:00 IST" name="validateFunctionalityOfResetButton" finished-at="2023-07-19T02:16:55 IST" duration-ms="55174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFunctionalityOfResetButton -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:16:55 IST" name="reportWrapUp" finished-at="2023-07-19T02:16:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFunctionalityOfResetButton status=SUCCESS method=WorkingWeekTest.validateFunctionalityOfResetButton()[pri:2, instance:testcases.WorkingWeekTest@6e171cd7] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.WorkingWeekTest.validateFunctionalityOfResetButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.WorkingWeekTest@6e171cd7]" started-at="2023-07-19T02:16:55 IST" name="closeBrowser" finished-at="2023-07-19T02:16:56 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.WorkingWeekTest -->
+      <class name="testcases.ManageLayoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ManageLayoutTest@333291e3]" started-at="2023-07-19T02:05:34 IST" name="setUp" finished-at="2023-07-19T02:05:54 IST" duration-ms="19871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ValidateSearchAndResetButtonFunctionality()[pri:1, instance:testcases.ManageLayoutTest@333291e3]" started-at="2023-07-19T02:05:54 IST" name="ValidateSearchAndResetButtonFunctionality" finished-at="2023-07-19T02:07:04 IST" duration-ms="70243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSearchAndResetButtonFunctionality -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageLayoutTest@333291e3]" started-at="2023-07-19T02:05:54 IST" name="beforeMethod" finished-at="2023-07-19T02:05:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageLayoutTest.ValidateSearchAndResetButtonFunctionality() throws java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ManageLayoutTest@333291e3]" started-at="2023-07-19T02:07:04 IST" name="closeBrowser" finished-at="2023-07-19T02:07:05 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageLayoutTest@333291e3]" started-at="2023-07-19T02:07:04 IST" name="reportWrapUp" finished-at="2023-07-19T02:07:04 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateSearchAndResetButtonFunctionality status=SUCCESS method=ManageLayoutTest.ValidateSearchAndResetButtonFunctionality()[pri:1, instance:testcases.ManageLayoutTest@333291e3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageLayoutTest.ValidateSearchAndResetButtonFunctionality() throws java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+      </class> <!-- testcases.ManageLayoutTest -->
+      <class name="testcases.ManageTagsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:36:26 IST" name="setUp" finished-at="2023-07-19T02:36:47 IST" duration-ms="20546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:36:47 IST" name="beforeMethod" finished-at="2023-07-19T02:36:47 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.ManageTagsValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ManageTagsValidationCheck()[pri:1, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:36:47 IST" name="ManageTagsValidationCheck" finished-at="2023-07-19T02:39:09 IST" duration-ms="142238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManageTagsValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:39:09 IST" name="reportWrapUp" finished-at="2023-07-19T02:39:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ManageTagsValidationCheck status=SUCCESS method=ManageTagsTest.ManageTagsValidationCheck()[pri:1, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.ManageTagsValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:39:09 IST" name="beforeMethod" finished-at="2023-07-19T02:39:09 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.addNewTagwithInactiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addNewTagwithInactiveStatus()[pri:2, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:39:09 IST" name="addNewTagwithInactiveStatus" finished-at="2023-07-19T02:40:12 IST" duration-ms="63291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewTagwithInactiveStatus -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:40:12 IST" name="reportWrapUp" finished-at="2023-07-19T02:40:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewTagwithInactiveStatus status=SUCCESS method=ManageTagsTest.addNewTagwithInactiveStatus()[pri:2, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.addNewTagwithInactiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateClearAllSearchAndDeleteFunctionality()[pri:3, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:40:12 IST" name="validateClearAllSearchAndDeleteFunctionality" finished-at="2023-07-19T02:41:35 IST" duration-ms="82824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClearAllSearchAndDeleteFunctionality -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:40:12 IST" name="beforeMethod" finished-at="2023-07-19T02:40:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateClearAllSearchAndDeleteFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:41:35 IST" name="reportWrapUp" finished-at="2023-07-19T02:41:35 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateClearAllSearchAndDeleteFunctionality status=SUCCESS method=ManageTagsTest.validateClearAllSearchAndDeleteFunctionality()[pri:3, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateClearAllSearchAndDeleteFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:41:35 IST" name="beforeMethod" finished-at="2023-07-19T02:41:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.addNewTagwithActiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addNewTagwithActiveStatus()[pri:4, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:41:35 IST" name="addNewTagwithActiveStatus" finished-at="2023-07-19T02:42:38 IST" duration-ms="62691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewTagwithActiveStatus -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:42:38 IST" name="reportWrapUp" finished-at="2023-07-19T02:42:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewTagwithActiveStatus status=SUCCESS method=ManageTagsTest.addNewTagwithActiveStatus()[pri:4, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.addNewTagwithActiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:42:38 IST" name="beforeMethod" finished-at="2023-07-19T02:42:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateInActiveButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateInActiveButtonFunctionality()[pri:5, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:42:38 IST" name="validateInActiveButtonFunctionality" finished-at="2023-07-19T02:43:43 IST" duration-ms="64790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInActiveButtonFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:43:43 IST" name="reportWrapUp" finished-at="2023-07-19T02:43:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateInActiveButtonFunctionality status=SUCCESS method=ManageTagsTest.validateInActiveButtonFunctionality()[pri:5, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateInActiveButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:43:43 IST" name="beforeMethod" finished-at="2023-07-19T02:43:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateActiveButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateActiveButtonFunctionality()[pri:6, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:43:43 IST" name="validateActiveButtonFunctionality" finished-at="2023-07-19T02:45:00 IST" duration-ms="77614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateActiveButtonFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:45:00 IST" name="reportWrapUp" finished-at="2023-07-19T02:45:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateActiveButtonFunctionality status=SUCCESS method=ManageTagsTest.validateActiveButtonFunctionality()[pri:6, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateActiveButtonFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateDrpoDownInActiveFunctionality()[pri:7, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:45:00 IST" name="validateDrpoDownInActiveFunctionality" finished-at="2023-07-19T02:46:08 IST" duration-ms="67383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDrpoDownInActiveFunctionality -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:45:00 IST" name="beforeMethod" finished-at="2023-07-19T02:45:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateDrpoDownInActiveFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:46:08 IST" name="reportWrapUp" finished-at="2023-07-19T02:46:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDrpoDownInActiveFunctionality status=SUCCESS method=ManageTagsTest.validateDrpoDownInActiveFunctionality()[pri:7, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateDrpoDownInActiveFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateDrpoDownActiveFunctionality()[pri:8, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:46:08 IST" name="validateDrpoDownActiveFunctionality" finished-at="2023-07-19T02:47:13 IST" duration-ms="65313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDrpoDownActiveFunctionality -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:46:08 IST" name="beforeMethod" finished-at="2023-07-19T02:46:08 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateDrpoDownActiveFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:47:13 IST" name="reportWrapUp" finished-at="2023-07-19T02:47:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDrpoDownActiveFunctionality status=SUCCESS method=ManageTagsTest.validateDrpoDownActiveFunctionality()[pri:8, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateDrpoDownActiveFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateUpdateFunctionality()[pri:9, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:47:13 IST" name="validateUpdateFunctionality" finished-at="2023-07-19T02:48:22 IST" duration-ms="68727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateFunctionality -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:47:13 IST" name="beforeMethod" finished-at="2023-07-19T02:47:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateUpdateFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:48:22 IST" name="reportWrapUp" finished-at="2023-07-19T02:48:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateUpdateFunctionality status=SUCCESS method=ManageTagsTest.validateUpdateFunctionality()[pri:9, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateUpdateFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:48:22 IST" name="beforeMethod" finished-at="2023-07-19T02:48:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.verifySortingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifySortingFunctionality()[pri:10, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:48:22 IST" name="verifySortingFunctionality" finished-at="2023-07-19T02:49:25 IST" duration-ms="62809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortingFunctionality -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:49:25 IST" name="reportWrapUp" finished-at="2023-07-19T02:49:25 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySortingFunctionality status=SUCCESS method=ManageTagsTest.verifySortingFunctionality()[pri:10, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.verifySortingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:49:25 IST" name="beforeMethod" finished-at="2023-07-19T02:49:25 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateSearchAndDeleteFunctionalityForActiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchAndDeleteFunctionalityForActiveStatus()[pri:11, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:49:25 IST" name="validateSearchAndDeleteFunctionalityForActiveStatus" finished-at="2023-07-19T02:50:48 IST" duration-ms="83490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchAndDeleteFunctionalityForActiveStatus -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:50:48 IST" name="reportWrapUp" finished-at="2023-07-19T02:50:48 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchAndDeleteFunctionalityForActiveStatus status=SUCCESS method=ManageTagsTest.validateSearchAndDeleteFunctionalityForActiveStatus()[pri:11, instance:testcases.ManageTagsTest@795cd85e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ManageTagsTest.validateSearchAndDeleteFunctionalityForActiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ManageTagsTest@795cd85e]" started-at="2023-07-19T02:50:48 IST" name="closeBrowser" finished-at="2023-07-19T02:50:49 IST" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.ManageTagsTest -->
+      <class name="testcases.AddReportTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:03:13 IST" name="setUp" finished-at="2023-07-19T03:03:21 IST" duration-ms="7541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:03:21 IST" name="beforeMethod" finished-at="2023-07-19T03:03:21 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.addReportValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addReportValidationCheck()[pri:1, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:03:21 IST" name="addReportValidationCheck" finished-at="2023-07-19T03:04:04 IST" duration-ms="43615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReportValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:04:04 IST" name="reportWrapUp" finished-at="2023-07-19T03:04:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addReportValidationCheck status=SUCCESS method=AddReportTest.addReportValidationCheck()[pri:1, instance:testcases.AddReportTest@dbf57b3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.addReportValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:04:04 IST" name="beforeMethod" finished-at="2023-07-19T03:04:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.addReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addReport()[pri:2, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:04:04 IST" name="addReport" finished-at="2023-07-19T03:06:22 IST" duration-ms="137561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReport -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:06:22 IST" name="reportWrapUp" finished-at="2023-07-19T03:06:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addReport status=SUCCESS method=AddReportTest.addReport()[pri:2, instance:testcases.AddReportTest@dbf57b3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.addReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:06:22 IST" name="beforeMethod" finished-at="2023-07-19T03:06:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.validateReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateReport()[pri:3, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:06:22 IST" name="validateReport" finished-at="2023-07-19T03:07:07 IST" duration-ms="45292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateReport -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:07:07 IST" name="reportWrapUp" finished-at="2023-07-19T03:07:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateReport status=SUCCESS method=AddReportTest.validateReport()[pri:3, instance:testcases.AddReportTest@dbf57b3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.validateReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validationCheckOfUpdateReport()[pri:4, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:07:07 IST" name="validationCheckOfUpdateReport" finished-at="2023-07-19T03:08:13 IST" duration-ms="65845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationCheckOfUpdateReport -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:07:07 IST" name="beforeMethod" finished-at="2023-07-19T03:07:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.validationCheckOfUpdateReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:08:13 IST" name="reportWrapUp" finished-at="2023-07-19T03:08:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationCheckOfUpdateReport status=SUCCESS method=AddReportTest.validationCheckOfUpdateReport()[pri:4, instance:testcases.AddReportTest@dbf57b3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.validationCheckOfUpdateReport()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:08:13 IST" name="beforeMethod" finished-at="2023-07-19T03:08:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.validatefunctionalityOfDeleteButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatefunctionalityOfDeleteButton()[pri:5, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:08:13 IST" name="validatefunctionalityOfDeleteButton" finished-at="2023-07-19T03:09:15 IST" duration-ms="62035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefunctionalityOfDeleteButton -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:09:15 IST" name="reportWrapUp" finished-at="2023-07-19T03:09:15 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatefunctionalityOfDeleteButton status=SUCCESS method=AddReportTest.validatefunctionalityOfDeleteButton()[pri:5, instance:testcases.AddReportTest@dbf57b3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.AddReportTest.validatefunctionalityOfDeleteButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.AddReportTest@dbf57b3]" started-at="2023-07-19T03:09:15 IST" name="closeBrowser" finished-at="2023-07-19T03:09:15 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.AddReportTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

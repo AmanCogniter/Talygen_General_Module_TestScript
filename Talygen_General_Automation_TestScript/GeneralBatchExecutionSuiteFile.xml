@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testcases.WorkingDayTest"/>
+      <class name="testcases.ManageLayoutTest"/>
+      <class name="testcases.AutoResponderTest"/>
+      <!--class name="testcases.ProvisionalRightsTest"/-->
+      <class name="testcases.WorkingWeekTest"/>
+      <class name="testcases.PassportInformationTest"/>
+      <class name="testcases.ManageTagsTest"/>
+      <class name="testcases.StorageTest"/>
+      <!--class name="testcases.CustomFieldTest"/-->
+      <class name="testcases.RuleEngineTest"/>
+      <class name="testcases.ExternalLinkTest"/>
+      <class name="testcases.AddReportTest"/>
+      <!--class name="testcases.CustomReportsTest"/-->
+      <class name="testcases.OrganizationChartTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

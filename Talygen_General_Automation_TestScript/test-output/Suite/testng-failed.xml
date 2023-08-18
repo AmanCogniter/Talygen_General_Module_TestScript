@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testcases.ExternalLinkTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="validateViewfunctionalityOfExternalLink"/>
+          <include name="close"/>
+          <include name="reportWrapUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.ExternalLinkTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
